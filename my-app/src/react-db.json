@@ -1,0 +1,10 @@
+{
+    "products":[
+        {"id": 1,"productName": "iPhone","price": 8900,"quantity": 5},
+        {"id": 2,"productName": "Sony camera","price": 4500,"quantity": 7},
+        {"id": 3,"productName": "Samsung TV","price": 7745,"quantity": 3},
+        {"id": 4,"productName": "iPad Pro","price": 12400,"quantity": 3},
+        {"id": 5,"productName": "Xbox","price": 7780,"quantity": 6},
+        {"id": 6,"productName": "Dell Monitor","price": 880,"quantity": 7}
+    ]
+}
